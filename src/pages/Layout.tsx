@@ -49,13 +49,6 @@ export default function Layout() {
                         >
                             Сравнение
                         </Link>
-
-                        <Link
-                            to="/about"
-                            className={navLinkClass("/about")}
-                        >
-                            О сервисе
-                        </Link>
                     </nav>
                 </div>
             </header>
